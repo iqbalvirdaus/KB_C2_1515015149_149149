@@ -13,6 +13,7 @@
 			dijual(Y).
       X dapat membeli Y jika . X adalah variabel dan Y adalah mobil dan X suka dengan Y dan Y dijual.
    f. suka(_,Apa).
+      apa yang _ suka ?
     
 
 2. Ubah bahasa natural berikut menjadi bahasa Prolog:
